@@ -1,4 +1,4 @@
-# OrderFlow
+# Projeto de pedido em Java, SpringBoot, Postgres, Redis e RabbitMQ
 
 ![Java](https://img.shields.io/badge/Java-21%2B-ED8B00?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.1.1-6DB33F?logo=springboot&logoColor=white)
@@ -6,7 +6,7 @@
 ![Redis](https://img.shields.io/badge/Redis-7.4-DC382D?logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-4.1-FF6600?logo=rabbitmq&logoColor=white)
 
-> **OrderFlow** é uma API REST de pedidos feita em Java com Spring Boot. O projeto demonstra persistência relacional, cache, concorrência no estoque e processamento assíncrono de eventos.
+> É uma API REST de pedidos feita em Java com Spring Boot. O projeto demonstra persistência relacional, cache, concorrência no estoque e processamento assíncrono de eventos.
 
 ## Objetivos de estudo
 
